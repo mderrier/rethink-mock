@@ -1,6 +1,6 @@
 {
   "name": "rethink-mock",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A mocking library for unit testing rethinkdb with mocha and sinon",
   "main": "lib/rethink-mock",
   "directories": {
@@ -42,7 +42,7 @@
     "sinon-chai": "^2.8.0"
   },
   "dependencies": {
-    "sinon": "^1.17.5",
+    "sinon": "^1.17.6",
     "sinon-as-promised": "^4.0.2"
   }
 }
